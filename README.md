@@ -1,9 +1,9 @@
 # Triangle Tracker
 
-#Author
+##Author
 Raphson Larry Bunoro
 
-#Description
+##Description
 
 Triangle tracker is a program built  built using HTML,CSS and JavaScript to help in identifying whether a shape is a triangle or not when given three measurements.
 
